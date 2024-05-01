@@ -46,3 +46,5 @@ NAME_E, HEX 0
 NAME_U, HEX 0
 NAME_S, HEX 0
 ```
+
+****![image](https://github.com/Matheus-Bertol/AssemblyAtividade01/assets/141282448/a3bc96a5-06b8-41c8-8496-75de97b1c4af)
